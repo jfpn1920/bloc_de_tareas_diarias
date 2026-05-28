@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bloc de tareas diarias</title>
+    <link rel="stylesheet" href="bloc_de_tareas_diarias.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="bloc_de_tareas_diarias.js" defer></script>
+</head>
+<body>
+    <!------------------------------------------>
+    <!--|estructurando_bloc_de_tareas_diarias|-->
+    <!------------------------------------------>
+    <div class="contenedor">
+        <div class="titulo">
+            <h1>Bloc de tareas diarias</h1>
+        </div>
+        <div class="contenido">
+            <p class="titulares">
+                Agregar nueva tarea
+            </p>
+            <input
+                type="text"
+                id="inputTarea"
+                placeholder="Escribe una tarea..."
+            >
+            <p class="titulares">
+                Seleccionar una prioridad
+            </p>
+            <div class="select_box">
+                <select id="selectPrioridad">
+                    <option>
+                        Ninguna prioridad...
+                    </option>
+                    <option>
+                        Alta
+                    </option>
+                    <option>
+                        Media
+                    </option>
+                    <option>
+                        Baja
+                    </option>
+                </select>
+            </div>
+            <p class="titulares">
+                Seleccionar la categoria
+            </p>
+            <div class="select_box">
+                <select id="selectCategoria">
+                    <option>
+                        Ninguna categoria...
+                    </option>
+                    <option>
+                        Estudio
+                    </option>
+                    <option>
+                        Trabajo
+                    </option>
+                    <option>
+                        Personal
+                    </option>
+                </select>
+            </div>
+            <button id="btnAgregar">
+                Agregar
+            </button>
+        </div>
+    </div>
+    <!--------------------------------------------->
+    <!--|estructurando_resumen_progresiva_tareas|-->
+    <!--------------------------------------------->
+    <section class="panel_tareas">
+        <div class="tarjeta">
+            <div class="encabezado">
+                <h2>
+                    Completados
+                </h2>
+            </div>
+            <div class="contenido">
+                <span id="tareasCompletadas">
+                    0
+                </span>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div class="encabezado">
+                <h2>
+                    Pendientes
+                </h2>
+            </div>
+            <div class="contenido">
+                <span id="tareasPendientes">
+                    0
+                </span>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div class="encabezado">
+                <h2>
+                    Progreso
+                </h2>
+            </div>
+            <div class="contenido">
+                <span id="progresoTareas">
+                    0
+                </span>
+            </div>
+        </div>
+    </section>
+    <!---------------------------------------------->
+    <!--|estructurando_tablero_de_lista_de_tareas|-->
+    <!---------------------------------------------->
+    <section class="contenedor_tablero">
+        <div class="titulo_tablero">
+            <h1>
+                Tablero de lista de tareas
+            </h1>
+        </div>
+        <div class="contenedor_scroll_tabla">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tarea</th>
+                        <th>Prioridad</th>
+                        <th>Categoria</th>
+                        <th>Progreso</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody id="listaTareas">
+                    <tr>
+                        <td
+                            colspan="5"
+                            class="mensaje_vacio"
+                            id="mensajeVacio"
+                        >
+                            Ningun bloc añadido en el tablero
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+</body>
+</html>

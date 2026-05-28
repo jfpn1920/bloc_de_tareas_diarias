@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "bloc_de_tareas_diarias/1.0.0": {
+        "runtime": {
+          "bloc_de_tareas_diarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bloc_de_tareas_diarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

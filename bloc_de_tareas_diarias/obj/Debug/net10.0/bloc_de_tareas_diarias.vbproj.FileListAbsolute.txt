@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\bin\Debug\net10.0\bloc_de_tareas_diarias.exe
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\bin\Debug\net10.0\bloc_de_tareas_diarias.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\bin\Debug\net10.0\bloc_de_tareas_diarias.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\bin\Debug\net10.0\bloc_de_tareas_diarias.dll
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\bin\Debug\net10.0\bloc_de_tareas_diarias.pdb
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.dll
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\refint\bloc_de_tareas_diarias.dll
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.pdb
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\bloc_de_tareas_diarias.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\bloc_de_tareas_diarias\bloc_de_tareas_diarias\obj\Debug\net10.0\ref\bloc_de_tareas_diarias.dll
