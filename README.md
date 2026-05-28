@@ -1,4 +1,4 @@
-# 👋 ¡Bienvenidos usuarios! a mi proyecto bloc de tareas diarias
+# 👋 ¡Bienvenidos! a mi proyecto bloc de tareas diarias
 <img src="imagen_presentacion.png" alt="Presentación" width="220" align="left" style="margin-right: 20px; border-radius: 5px;">
 
 <p style="text-align: justify;">

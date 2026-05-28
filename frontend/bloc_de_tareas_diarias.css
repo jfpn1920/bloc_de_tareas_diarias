@@ -11,6 +11,64 @@ body{
     align-items: center;
     height: 100vh;
 }
+/*------------------------------*/
+/*--|estilo_base_presentacion|--*/
+/*------------------------------*/
+.contenedor_presentacion_bloc_de_notas{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.tarjeta_presentacion_bloc_de_notas{
+    width: 100%;
+    max-width: 800px;
+    border-radius: 8px;
+    padding: 60px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+.imagen_presentacion_bloc_de_notas{
+    width: 290px;
+    height: 399px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.titulo_presentacion_bloc_de_notas{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+}
+.subtitulo_presentacion_bloc_de_notas{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -30px;
+    color: #000000;
+}
+.boton_presentacion_bloc_de_notas{
+    text-decoration: none;
+    background: linear-gradient(
+        to bottom,
+        #bfc5d1,
+        #555b69
+    );
+    color: #000000;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: -15px;
+    padding: 15px 35px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.boton_presentacion_bloc_de_notas:hover{
+    transform: scale(1.05);
+}
 /*----------------------------------------*/
 /*--|estilo_base_bloc_de_tareas_diarias|--*/
 /*----------------------------------------*/
