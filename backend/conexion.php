@@ -2,7 +2,7 @@
 $servidor = "localhost";
 $usuario = "root";
 $contrasena = "";
-$base_de_datos = "bloc_de_tareas_diarias";
+$base_de_datos = "bloc_diarios";
 $conexion =
 new mysqli(
     $servidor,
